@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simtech1976
 - 👀 I’m interested in Gaming, coding, Homelab
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning R and Python
 
 
 <!---
